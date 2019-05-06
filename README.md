@@ -53,7 +53,7 @@ docker run -d --name rundeck-team  -p 4440:4440 \
 
 ```
 
-# Custer Environment
+# Cluster Environment
 
 ## Requirements
 
